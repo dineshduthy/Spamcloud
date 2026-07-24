@@ -1,0 +1,1014 @@
+@media only screen and (max-width: 767px) {
+
+    /* aboutus page start */
+
+/* bannersection start */
+.pc-header {
+    display: none;
+}
+.mobile-header {
+    display: block;
+}
+.banner-column{
+    height: 350px;
+    
+    background-color: rgba(0, 19, 104, 0.918);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    display: inline-block;
+    
+    
+    
+}
+.about-banner-column{
+    width: 100%;
+    
+}
+.banner-image{
+    height: 200px;
+    width: 100%;
+    padding-bottom: 15px;
+    
+}
+
+.banner-heading{
+   font-size: 25px;
+   font-family: 'system-ui';
+   color: rgb(255, 255, 255);
+   padding-top: 20px;
+   font-weight: 600;
+}
+.banner-para{
+    font-size: 17px;
+    font-family:'sans';   
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 8px;
+    
+}
+/* bannersection ends */
+.welcome-to-spamcloud-column{
+    width: 100%;
+    display: inline-block;
+}
+.welcome-to-spamcloud-section{
+    width: 100%;
+}
+
+.welcome-to-spamcloud-image{
+    height: 250px;
+    width: 100%;
+    padding-left: 30px;
+}
+.welcome-to-spamcloud-heading{
+    font-size: 25px;
+    font-family: 'system-ui';
+   padding-top: 0px;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 47px;
+ 
+}
+.welcome-to-spamcloud-para{
+    font-size: 15px;
+    font-family: "sans";
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-top: 0px;
+    
+   
+
+}
+.welcome-to-spamcloud-column2{
+    width: 90%;
+}
+
+.welcome-to-spamcloud-column1{
+    width: 90%;
+}
+
+/* welcome-to-spam-cloud-section ends */
+
+/* box-section-starts */
+
+.box-section-column{
+    width: 100%;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(3, 75, 170);
+    box-shadow: 2px;
+    border-bottom-left-radius:95px;
+    padding-bottom: 0px;
+        
+}
+.box-row{
+    padding: 20px;
+    display: inline-block;
+
+}
+.box-section-column p,h1{
+    text-align: center;
+    padding-top: 10px;
+    padding: 10px;
+}
+
+
+.box-section-column h1{
+    font-size: 25px;
+    font-family: "system-ui";
+    color: rgb(1, 4, 44);
+
+}
+.box-section-column p{
+    font-size: 15px;
+    font-family: "sans";
+}
+
+/* .box-section-column:hover{
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+} */
+.box-section-learnmore{
+    background-color: rgb(3, 75, 170);
+    border-radius: 10px;
+    width: 100%;
+    display: inline ;
+    color: white    ;
+    
+}
+
+
+
+.box-section-learnmore:hover{
+    
+background-color: black;
+color: white;
+}
+/* box section ends */
+
+/* our services section starts */
+.our-services-heading{
+    font-family: "system-ui";
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+}
+
+.our-services-section-column{
+    width: 100%;
+   
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.5);
+    height: 200px;
+}
+
+.our-services-section-column:hover{
+    box-shadow: 2px 10px 5px rgba(255, 255, 255, 0.5);   
+  
+}
+.our-services-row{
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+}
+.our-services-section-column p,h1{
+    text-align: center;
+    padding-top: 10px;
+    padding: 10px;
+}
+
+.our-services-section-column h1{
+    font-size: 25px;
+    font-family: "system-ui";
+    color: rgb(0, 0, 0);
+
+}
+.our-services-section-column p{
+    font-size: 15px;
+    font-family: "sans";
+}
+
+.our-services-section-learnmore{
+    padding: 20px;
+  border-top-left-radius: 20px;  
+  border-bottom-right-radius: 20px;
+ border-width: 1px;
+    border-color: rgb(0, 0, 0);
+   
+    width: 50%;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+  
+ 
+}
+.learnmore-div{
+   
+        display: flex;
+        justify-content: center;
+    
+}
+.our-services-section-learnmore:hover{
+    
+background-color: black;
+color: white;
+}
+/* our services section ends */
+
+
+/* incomingfilterpagestarts */
+
+
+.incoming-banner-column{
+    height: 260px;
+
+    background-color: rgba(0, 19, 104, 0.918);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    display: inline-block;
+    
+    
+}
+.incoming-banner-image{
+    height: 300px;
+    width: 100%;
+    margin-top: -50px;
+   
+   
+ 
+    
+    
+}
+
+.incoming-banner-heading{
+   font-size: 30px;
+   font-family: 'system-ui';
+   color: rgb(255, 255, 255);
+   padding-top: 20px;
+   font-weight: 600;
+}
+.incoming-banner-para{
+    font-size: 25px;
+    font-family:'sans';   
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding:10px;
+    
+}
+
+.incoming-spamfilter-column{
+    width: 100%;
+}
+.incoming-spamfilter-section{
+    width: 100%;
+}
+
+.incoming-spamfilter-image{
+    height: 200px;
+    width: 100%;
+}
+.incoming-spamfilter-heading{
+    font-size: 25px;
+    font-family: 'system-ui';
+    padding-top: 20px;
+    font-weight: 600;
+    padding-left:55PX;
+}
+.incoming-spamfilter-para{
+    font-size: 18px;
+    font-family: "sans";
+    text-align: justify;
+    
+    padding-top: 20px;
+    padding-left: 40PX;
+
+}
+.incoming-spamfilter-column2{
+    width: 90%;
+}
+
+.incoming-spamfilter-column1{
+    width: 100%;
+}
+
+/* incoming-filter box section starts */
+
+.incoming-spamfilter-box-section{
+    margin: auto;
+    width: 100%;
+   
+    padding: 10px;
+    
+}
+.incoming-spamfilter-box-section-column{
+    width: 100%;
+  
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    
+    /* border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    
+
+}
+
+.incoming-spamfilter-box-row{
+
+    padding-left: 20px;
+    width: 100%;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    
+   
+        
+    
+}
+.incoming-spamfilter-box-section-column{
+    width: 100%;
+    
+}
+.incoming-spamfilter-box-section-column p,h1{
+    text-align: center;
+    padding-top: 10px;
+    padding: 10px;
+}
+
+
+.incoming-spamfilter-box-section-column h1{
+    font-size: 20px;
+    font-family: "system-ui";
+    color: rgb(1, 4, 44);
+    font-weight: 500;
+
+}
+.incoming-spamfilter-box-section-column p{
+    font-size: 16px;
+    font-family: "sans";
+}
+
+/* .box-section-column:hover{
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+} */
+.incoming-box-icon{
+    
+  
+    width: 100%;
+    display: inline ;
+
+    padding: 10px;
+    background-color: white;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    
+    box-shadow: 0 1px 5px rgba(43, 43, 43, 0.5);
+
+}
+.incoming-box-icon{
+    font-size: 40px;
+    color: rgb(0, 2, 29);
+    margin-right: 6px;
+}
+.incoming-box-section-heading{
+    font-size: 25px;
+    font-family: "system-ui";
+    color: black;
+    font-weight: 600;
+}
+.incoming-filter-column{
+    display: inline-block;
+   
+}
+.outgoing-banner-image{
+    height: 380px;
+    width: 100%;
+    padding-bottom: 70px;
+    
+}
+.carbonio-banner-image{
+    height: 300px;
+    width: 90%;
+    
+    padding-left: 100px;
+    display: none;
+}
+.carbonio-banner-column{
+    height: 380px;
+
+    background-color: rgba(0, 19, 104, 0.918);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    display: inline-block;
+    
+    
+}
+.carbonio-second-image{
+    height: 300px;
+    width:100%;
+}
+
+.high-availability-banner-column{
+    height: 170px;
+
+    background-color: rgba(0, 19, 104, 0.918);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    display: inline-block;
+    
+    
+}
+.high-availability-banner-image{
+    height: 400px;
+    width: 90%;
+    padding-bottom: 100px;
+    display: none;
+    
+}
+
+.high-availability-banner-heading{
+   font-size: 30px;
+   font-family: 'system-ui';
+   color: rgb(255, 255, 255);
+   
+   padding: 0px;
+   font-weight: 600;
+}
+.high-availability-banner-para{
+    font-size: 18px;
+    font-family:'sans';   
+    color: rgb(255, 255, 255);
+    text-align: center;
+   
+    
+}
+
+.high-availability-second-content{
+    width: 100%;
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-top:10px;
+    
+}
+.high-availability-second-content h1{
+    font-size: 25px;
+    color: rgb(0, 0, 68);
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 0px;
+}
+
+.high-availability-second-content{
+    font-size: 15px;
+    font-family:"sans";
+    color: black;
+    text-align: justify;
+}
+    
+.benefits-heading{
+   padding: 0px;
+}
+
+
+.client-banner-column{
+    height: 300px;
+
+    background-color: rgba(0, 19, 104, 0.918);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+    
+    
+}
+.client-banner-image{
+    height: 250px;
+    width: 90%;
+    padding-top: 20px;
+    
+}
+
+.client-banner-heading{
+   font-size: 40px;
+   font-family: 'system-ui';
+   color: rgb(255, 255, 255);
+   padding-top: 100px;
+   font-weight: 600;
+}
+.client-banner-para{
+    font-size: 20px;
+    font-family:'sans';   
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-left: 20px;
+    
+}
+.client-row{
+    padding-top: 20px;
+   padding-left: 66px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+.client-row div{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(236, 236, 236);
+    border-radius: 10px;
+    width: 90%;
+    padding: 10px;
+ 
+    box-shadow: 0 1px 5px rgba(43, 43, 43, 0.5);
+    
+}
+.contact-banner-sec{
+    padding: 30px;
+    padding-right: 20px;
+    background-image: url('https://res.cloudinary.com/daggx9p24/image/upload/v1725424024/hot-line-contact-us-call-center-search-interface_uc55dn.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    align-content: center;
+    background-position: 0px -150px;
+    width: 100%;
+    background-position-y: 0px;
+    background-position-x: 0px;
+  }
+  
+  .contact-banner-sec .container-1 .row .col-12 h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .contact-form{
+    padding-left:40px;
+    padding-top: 20px;
+  
+  }
+  .contact-form-sec {
+    padding: 0px;
+    
+  }
+  .contact-form-sec .container-1{
+    padding: 0px;
+    align-items: center;
+  }
+  .contact-form-sec .container-1 .row .col-md-6 iframe{
+    width: 100%;
+    height: 400px;
+  }
+  .contact-form-sec .container-1 .row {
+    padding-top: 20px;
+    padding-right: 20px;
+  }
+  .contactusform {
+    padding:20px;
+    border-width: 1px 1px 1px 1px;
+    border-color: #EAEAEA;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.5);
+  }
+  
+  .contactusform form .row .col-md-6 .formField label {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  
+  .contactusform form .row .col-md-6 .formField input {
+    width: 100%;
+    height: 32px;
+    border-radius: 3px;
+    border: 1px solid #888888;
+  }
+  .contactusform form .row .col-md-6 .formField select {
+    width: 100%;
+    height: 32px;
+  }
+  .contactusform form .row .col-md-6 .formField textarea {
+    width: 100%;
+    height: 110px;
+  }
+  .contactusform form button{
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-size: 15px;
+    color:white;
+    background-color: #0082F8;
+  }
+  .contact-para-sec .container-1 .row .col-12 p{
+    padding: 0px;
+    padding-left: 20px;
+    color: black;
+    text-align: justify;
+  }
+  .contact-add-sec {
+    padding:0px;
+  
+  }
+  .contact-add .col-lg-3 h3{
+    font-size: 16px;
+    color: #337AB7;
+  }
+  .contact-add .col-lg-3 p{
+    font-size: 17px;
+    color: black;
+  }
+  .contact-add .col-lg-3 ul li{
+    font-size: 17px;
+    padding: 5px;
+  }
+  .contact-add {
+    padding: 0  px;
+  }
+  .contact-form-sec .container-1 .row .col-md-6 iframe {
+    padding-left: 33px;
+  }
+
+  
+.spam-cloud-banner-section{
+    background-image: url("https://res.cloudinary.com/daggx9p24/image/upload/v1726745064/Untitled_design_2_mxzeul.jpg");
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.spam-cloud-banner-content h1{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding-top: 40px;
+    padding-left: 66px;
+    font-weight: 600;
+}
+.spam-cloud-banner-section ul{
+    padding-left: 70px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding-top: 10px;
+    
+
+}
+.spam-cloud-banner-section li{
+    padding: 5px;
+}
+.icon-home{
+    color: #ffffff;
+}
+.email-reaching-row{
+    display: inline-block;
+}
+.email-reaching-column{
+text-align: center;
+}
+.email-reaching-column img{
+    width: 100%;
+    height: 300px;
+    padding-left: 10px;
+    
+}
+.email-reaching-column h1{
+    font-size: 25px;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 30px;
+
+}
+.email-reaching-column p{
+font-size: 18px;
+font-family: "sans";
+color: black;
+text-align: justify;
+padding-right: 20px;
+padding-left: 20px;
+}
+.email-reaching-column h2{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 10px;
+    display: inline-flex;
+    padding: 10px;
+    font-size: 20px;
+    display: inline-block;
+    text-align: left;
+    
+    
+}
+.home-container2{
+    text-align: center;
+}
+.home-container-list{
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    color: black;
+    padding: 5px;
+}
+.essential-feature{
+    text-align: center;
+    background-image: url("https://res.cloudinary.com/daggx9p24/image/upload/v1726750395/Untitled_design_12_dvusnw.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.essential-feature h1{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.essential-feature p{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: "sans";
+    font-weight: 500;
+}
+
+.feature-icon{
+    color: #ffffff;
+}
+.essential-feature h2{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+  
+    padding: 10px;
+    font-size: 20px;
+    display: inline-block;
+    text-align: left;
+    
+    
+    
+}
+.home-container-list li{
+    padding: 5px;
+    color:  rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: justify;
+}
+
+
+.faq-content h1{
+font-size: 25px;
+color: black;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.faq-content h2{
+    font-size: 20px;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.faq-content p{
+    font-size: 18px;
+    color: black;
+    font-family: "sans";
+    text-align: justify;
+    padding-left: 5px;  
+    
+}
+.faq-content{
+    padding: 20px;
+    width: 100%;
+    padding-bottom: 0px; 
+    
+}
+@media only screen and  (max-width: 574px) {
+    .header-img{
+        width: 300px;
+      }
+      
+    }
+
+ 
+
+        img {
+          width: 100%;
+        }
+        
+        .outgoing-spam-config-sec {
+          padding: 5px;
+        }
+
+        .row {
+          padding: 10px;
+        }
+        .container {
+          padding: 5px;
+        }
+
+        .carbonio-community-edition-why-heading{
+            font-size: 20px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            padding-bottom: 15px;
+           }
+    
+           .carboniocommunityedition-container-banner{
+            background-image: url(https://res.cloudinary.com/daggx9p24/image/upload/v1724318482/carbonio_telco_operators_tzmuwm.png);
+            background-color:#9b9b9b;
+            
+            background-position:right;
+            background-repeat: no-repeat;
+            background-size: contain;
+           height: 180px;
+           width: 100%;
+            
+          
+          }
+          .nav-item {
+            padding-right: 0px;
+            font-size: 15px;
+            
+          }
+          .navbar-expand-lg .navbar-nav .nav-link{
+            padding-left: 10px;
+            color: #282b69 ;
+
+          }
+          #basic-nav-dropdown {
+            color: #282b69 ;
+          }
+          .navbar-nav .dropdown-menu {
+            border: none;
+            text-align: center;
+          }
+          .demo{
+            margin-left: 40px;
+          }
+          
+          
+          .cont{
+            width: 100%;
+            height: 45px;
+            text-align: center;
+           
+            border-radius: 10px;
+            
+          }
+          .con{
+            margin-right: 0px;
+            
+          }
+          .demo{
+            margin-right:35px
+          }
+
+          .basic-nav-dropdown{
+            padding-left: 10px;
+          }
+          .footer-row{
+            width: 100%;
+            padding-left: 15px;
+            padding-top: 20px;
+            display: inline-block;
+            padding-right: 20px;
+          
+        }
+        .footer-image{
+            width: 80%;
+            height: 250px;
+            padding-left: 70px;
+            padding-bottom: 40px;
+        }
+        .footer-column h1{
+            font-size: 20px;
+            color: black;
+            text-align: center;
+        }
+        .footer-image-heading{
+            font-size: 20px;
+            text-align: center;
+        }
+        a{
+        text-decoration: none !important;
+        color: black ;
+        }
+        .footer-column1 p{
+          
+            font-size: 20px;
+            text-align: left;
+            text-decoration: none;
+            color: black;
+            font-family: "sans";
+            text-align: center;
+            padding-right: 10px;
+        
+        }
+        .footer-column p{
+            
+            font-size: 22px;
+            text-align: left;
+            text-decoration: none;
+            color: black;
+            font-family: "sans";
+            text-align: center;
+        
+        }
+        .footer-column1 h1{
+            font-size: 20px;
+            color: black;
+            text-align: center;
+        }
+
+
+        /* new index page starts */
+        .index-banner-sec .carousel .carousel-inner .carousel-item {
+            height: 450px;
+        }
+
+        .index-banner-sec .carousel .carousel-inner .carousel-item .container h1, .index-banner-sec .carousel .carousel-inner .carousel-item .container h2 {
+font-size: 50px;
+        }
+        .index-service-sec {
+            height: auto;
+        }
+        .index-service:nth-of-type(2){
+            padding: 10px;
+        }
+        .index-service .col-12 {
+            padding: 10px;
+        }
+        .get-to-know-sec  {
+            padding: 10px;
+        }
+        .get-to-know-img:after  {
+            display: none;
+        }
+        .get-to-know .col-md-6 h2 {
+            font-size: 38px;
+        }
+        .get-to-know-img:before {
+            display: none;
+        }
+        .get-to-know .col-md-6 h2 {
+            padding-top: 20px;
+        }
+        .index-whychoose-sec  {
+            margin-top: -260px;
+        }
+        .index-whychoose .col-md-6 .why {
+            display: block;
+        }
+        .index-whychoose .col-md-6 .why img {
+            width: 100%;
+            height: 200px;
+        }
+        .index-whychoose .col-md-6 .why ul {
+            padding: 10px;
+        }
+        .index-protect-sec  {
+            padding: 50px 30px;
+        }
+        .index-protect .col-12 h2{
+            font-size: 40px;
+        }
+        .index-tab .nav-tabs .nav-item {
+            width: 100%;
+        }
+        .index-tab {
+            margin-top: 0px;
+        }
+        .index-tab .nav-tabs {
+            display: grid;
+        }
+        .index-tab-con {
+            padding: 10px;
+            display: grid;
+        }
+        .index-tab-con ul{
+            padding: 0px;
+        }
+        .index-tab-con .left-con {
+            max-width: 100%;
+            text-align: center;
+        }
+
+        .index-pro-sec {
+            padding: 50px;
+        }
+        .index-whychoose-sec {
+            margin-top: -80px;
+        }
+         .index-pro .col-lg-3 {
+            height: 250px;
+         } 
+         .index-whychoose-sec .container {
+            width: 90%;
+         }
+         .index-tab-con .right-tab-con img {
+            width: 100%;
+            height: auto;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        /* new index page ends */
+
+
+}
